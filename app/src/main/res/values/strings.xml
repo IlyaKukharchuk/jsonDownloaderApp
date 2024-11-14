@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 8 Кухарчук Илья-63</string>
+    <string name="text_view">TextView</string>
+    <string name="loadBtn">Загрузить данные</string>
+    <string name="author">Кухарчук Илья Николаевич</string>
+    <string name="authorBtn">Автор</string>
+    <string name="emptyList">Нажмите «Загрузить данные» </string>
+    <string name="backBtn">Назад</string>
+</resources>
